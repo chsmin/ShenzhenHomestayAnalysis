@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 19 11:33:20 CST 2024
+protobuf-java-3.21.12.jar>central=
+protobuf-java-3.21.12.pom>central=
+protobuf-java-3.21.12-sources.jar>central=

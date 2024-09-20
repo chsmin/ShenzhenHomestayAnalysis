@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 19 01:55:54 CST 2024
+commons-compress-1.21-sources.jar>central=
+commons-compress-1.21.jar>central=
+commons-compress-1.21.pom>central=
